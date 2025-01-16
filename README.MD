@@ -8,12 +8,12 @@
 <p align="center">
 <a href="https://dio.me/">
     <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        src="https://raw.githubusercontent.com/nathalia105/dio/ad32c6f124e87cac91065c12f30901810e53b49c/imagem_gerada2.png" 
         alt="DIO - Code The Future">
 </a>
 <a href="https://dio.me/">
 <img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    src="https://raw.githubusercontent.com/nathalia105/dio/ad32c6f124e87cac91065c12f30901810e53b49c/imagem_gerada2.png" 
     alt="🔴 LIVE CODE">
 </a>
 </p>
@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast.MP3" controls title="Podcast "></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -66,7 +66,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
+## 👩🏿‍💻 Expert
 
 <p>
     <img 
@@ -75,7 +75,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://raw.githubusercontent.com/nathalia105/dio/ad32c6f124e87cac91065c12f30901810e53b49c/imagem_gerada2.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspNathalia Barros<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/nathalia105/podcast">

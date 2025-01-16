@@ -1,11 +1,4 @@
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
 <a href="https://dio.me/">
 <img 
     src="https://raw.githubusercontent.com/nathalia105/dio/ad32c6f124e87cac91065c12f30901810e53b49c/imagem_gerada2.png" 

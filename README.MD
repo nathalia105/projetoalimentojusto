@@ -43,7 +43,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
-- [Gemini] (https://gemini.google.com/app?hl=pt-BR)
+- [Gemini](https://gemini.google.com/app?hl=pt-BR)
 
 
 ## ✨ Como foi feito ?

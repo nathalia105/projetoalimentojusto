@@ -72,9 +72,8 @@ Ficou interessado? Entre em contato e ajude a construir um sistema mais justo e 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Gamma](https://gamma.app/)
+
 - [Gemini](https://gemini.google.com/app?hl=pt-BR)
 
 
@@ -87,10 +86,8 @@ Ficou interessado? Entre em contato e ajude a construir um sistema mais justo e 
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-17d64ef2d64580ad80effb391385d24f)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
+- [Site basico/Aplicativo](https://claude.site/artifacts/44faa2dc-210f-4b76-8cc4-f4edbc627ece)
+- [Apresentação do Projeto](https://alimento-justo-32pdc2u.gamma.site/)
 
 ## 🛠️ Instruções de execução
 

@@ -116,4 +116,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [NATHALIA BARROS](https://github.com/nathalia105/podcast)
+⌨️ com 💜 por [NATHALIA BARROS](https://github.com/nathalia105/projetoalimentojusto/blob/main/README.MD)

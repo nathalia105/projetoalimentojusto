@@ -28,7 +28,7 @@ alt="🔴 LIVE CODE">
     <audio src="output/podcast.MP3" controls title="Podcast "></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# 🍏 Alimento Justo – IA contra o Desperdício de Alimentos
 
 
  > ℹ️ 🍏 Alimento Justo – IA contra o Desperdício de Alimentos

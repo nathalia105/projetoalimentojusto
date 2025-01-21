@@ -63,7 +63,6 @@ Fase Piloto: Início com pequenos produtores e mercados locais para validar o mo
 
 Ficou interessado? Entre em contato e ajude a construir um sistema mais justo e sustentável! 💡🌱
 
-📩 Contato: [Seu E-mail]💻 GitHub: [Seu Repositório]
 
 📢 "Juntos, podemos transformar o desperdício em oportunidade e alimentar mais pessoas!"
 
@@ -78,7 +77,7 @@ Ficou interessado? Entre em contato e ajude a construir um sistema mais justo e 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Sie/Aplicativo modelo básico gerado no Claude
+- Site/Aplicativo modelo básico gerado no Claude
 - Gemini Para gerar imagens
 - Gamma para apresentação
 

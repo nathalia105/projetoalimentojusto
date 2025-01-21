@@ -80,9 +80,9 @@ Ficou interessado? Entre em contato e ajude a construir um sistema mais justo e 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney, Gemini Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Sie/Aplicativo modelo básico gerado no Claude
+- Gemini Para gerar imagens
+- Gamma para apresentação
 
 ## 📚 Materiais
 

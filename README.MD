@@ -49,11 +49,17 @@ Alimento Justo é um dos módulos do projeto Agro e Sustentabilidade Inteligente
 
 🔗 Como Funciona
 
-1️⃣ Cadastro de produtores e instituições – Registro das partes interessadas na plataforma.2️⃣ Mapeamento da oferta e demanda – IA analisa a disponibilidade e necessidade de alimentos em diferentes regiões.3️⃣ Recomendação e Match Inteligente – A plataforma conecta produtores a mercados locais e ONGs conforme a disponibilidade dos produtos.4️⃣ Logística Inteligente – Sugestões de rotas e parceiros logísticos para otimizar o transporte e minimizar perdas.
+1️⃣ Cadastro de produtores e instituições – Registro das partes interessadas na plataforma.
+2️⃣ Mapeamento da oferta e demanda – IA analisa a disponibilidade e necessidade de alimentos em diferentes regiões.
+3️⃣ Recomendação e Match Inteligente – A plataforma conecta produtores a mercados locais e ONGs conforme a disponibilidade dos produtos.
+4️⃣ Logística Inteligente – Sugestões de rotas e parceiros logísticos para otimizar o transporte e minimizar perdas.
 
 📊 Benefícios
 
-✔ Menos desperdício – Redução da perda de alimentos ao longo da cadeia produtiva.✔ Maior eficiência – Uso da IA para conectar oferta e demanda de forma estratégica.✔ Impacto social – Segurança alimentar aprimorada para comunidades vulneráveis.✔ Sustentabilidade – Contribuição para a redução do impacto ambiental do desperdício de alimentos.
+✔ Menos desperdício – Redução da perda de alimentos ao longo da cadeia produtiva.
+✔ Maior eficiência – Uso da IA para conectar oferta e demanda de forma estratégica.
+✔ Impacto social – Segurança alimentar aprimorada para comunidades vulneráveis.
+✔ Sustentabilidade – Contribuição para a redução do impacto ambiental do desperdício de alimentos.
 
 📅 Implementação e Parcerias
 
@@ -85,14 +91,6 @@ Ficou interessado? Entre em contato e ajude a construir um sistema mais justo e 
 
 - [Site basico/Aplicativo](https://claude.site/artifacts/44faa2dc-210f-4b76-8cc4-f4edbc627ece)
 - [Apresentação do Projeto](https://alimento-justo-32pdc2u.gamma.site/)
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 👩🏿‍💻 Expert
 

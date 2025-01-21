@@ -73,7 +73,7 @@ Ficou interessado? Entre em contato e ajude a construir um sistema mais justo e 
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Gamma](https://gamma.app/)
-
+- [Claude](https://claude.ai/new)
 - [Gemini](https://gemini.google.com/app?hl=pt-BR)
 
 

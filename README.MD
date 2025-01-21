@@ -35,7 +35,9 @@ alt="🔴 LIVE CODE">
 
 Alimento Justo é um dos módulos do projeto Agro e Sustentabilidade Inteligente – IA para o Futuro do Campo. Ele visa combater o desperdício de alimentos conectando produtores rurais a mercados locais, ONGs e instituições de doação por meio de Inteligência Artificial.
 
-🔹 Objetivo: Reduzir o desperdício de alimentos na cadeia produtiva e melhorar a segurança alimentar por meio da tecnologia.🔹 Público-alvo: Pequenos produtores, supermercados, cooperativas e instituições sociais.🔹 Impacto esperado: Melhor distribuição de alimentos, redução de perdas e acesso ampliado a alimentos frescos e nutritivos.
+🔹 Objetivo: Reduzir o desperdício de alimentos na cadeia produtiva e melhorar a segurança alimentar por meio da tecnologia.
+🔹 Público-alvo: Pequenos produtores, supermercados, cooperativas e instituições sociais.
+🔹 Impacto esperado: Melhor distribuição de alimentos, redução de perdas e acesso ampliado a alimentos frescos e nutritivos.
 
 🚀 Tecnologias Utilizadas
 

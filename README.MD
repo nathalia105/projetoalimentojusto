@@ -21,7 +21,7 @@ alt="🔴 LIVE CODE">
 </p>
 
 <p align="center">
-    preview do podcast
+    preview do projeto
 </p>
 
 <div align="center">

@@ -79,7 +79,7 @@ Ficou interessado? Entre em contato e ajude a construir um sistema mais justo e 
 - Roteiro gerado via chatgpt
 - Site/Aplicativo modelo básico gerado no Claude
 - Gemini Para gerar imagens
-- Gamma para apresentação
+- Gamma para apresentação(Alimento-Justo-IA-Contra-o-Desperdicio-e-Pelo-Futuro-Verde.pdf)
 
 ## 📚 Materiais
 

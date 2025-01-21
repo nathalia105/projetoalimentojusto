@@ -31,9 +31,7 @@ alt="🔴 LIVE CODE">
 # 🍏 Alimento Justo – IA contra o Desperdício de Alimentos
 
 
- > ℹ️ 🍏 Alimento Justo – IA contra o Desperdício de Alimentos
-
-📌 Sobre o Projeto
+ > 📌 Sobre o Projeto
 
 Alimento Justo é um dos módulos do projeto Agro e Sustentabilidade Inteligente – IA para o Futuro do Campo. Ele visa combater o desperdício de alimentos conectando produtores rurais a mercados locais, ONGs e instituições de doação por meio de Inteligência Artificial.
 

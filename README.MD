@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://dio.me/">
 <img 
-    src="https://raw.githubusercontent.com/nathalia105/dio/ad32c6f124e87cac91065c12f30901810e53b49c/imagem_gerada2.png" 
+    src="https://raw.githubusercontent.com/nathalia105/projetoalimentojusto/145df3a884334b3cc9dcb9e5e6a2e101ef6e030a/imagem_gerada%20(1).png" 
     width="300"    
 alt="🔴 LIVE CODE">
 </a>

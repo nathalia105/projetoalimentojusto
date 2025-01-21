@@ -28,7 +28,7 @@ alt="🔴 LIVE CODE">
     <audio src="output/podcast.MP3" controls title="Podcast "></audio>
 </div>
 
-# 🍏 Alimento Justo – IA contra o Desperdício de Alimentos
+# Projeto CAIXA - 🍏 Alimento Justo – IA contra o Desperdício de Alimentos
 
 
  > 📌 Sobre o Projeto
